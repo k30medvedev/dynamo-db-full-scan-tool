@@ -1,6 +1,7 @@
 # DynamoDB Tool
 
-<img src="https://raw.githubusercontent.com/k30medvedev/dynamo-db-full-scan-tool/master/images/image.jpg" alt="Фото" width="300"/>
+![Image](https://raw.githubusercontent.com/k30medvedev/dynamo-db-full-scan-tool/master/images/image.jpg)
+
 
 ## 📓 Changelog
 
