@@ -1,5 +1,6 @@
 # DynamoDB Tool
 
+<img src="images/image.jpeg" alt="Фото" width="300"/>
 ## 📓 Changelog
 
 See [CHANGELOG.md](./CHANGELOG.md) for version history.
