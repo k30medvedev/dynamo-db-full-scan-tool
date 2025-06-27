@@ -1,11 +1,11 @@
-# DynamoDB Control Plane Update Tool
+# DynamoDB Tool
 
 ## 📓 Changelog
 
 See [CHANGELOG.md](./CHANGELOG.md) for version history.
 
 The **DynamoDB Tool** is a Streamlit-based web application for managing DynamoDB tables safely and efficiently.  
-It helps you browse, filter, and bulk update records without writing complex scripts or using the AWS CLI.
+It helps you browse all records of aws DynamoDb
 
 ---
 
@@ -15,12 +15,7 @@ This tool is designed to:
 
 - 🔍 Browse and inspect records in DynamoDB tables  
 - ➕ Add flexible filters to narrow down data  
-- 🛠 Perform safe bulk updates (with dry-run preview)  
 - 📊 Count records before running updates  
-- ✅ Provide clear feedback and control within the UI  
-- 🔎 Run CloudWatch queries by CorrelationId across multiple log groups
-
-It simplifies DynamoDB operations and reduces the risk of errors when modifying data.
 
 ---
 
