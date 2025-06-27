@@ -4,7 +4,7 @@
 
 See [CHANGELOG.md](./CHANGELOG.md) for version history.
 
-The **DynamoDB Control Plane Update Tool** is a Streamlit-based web application for managing DynamoDB tables safely and efficiently.  
+The **DynamoDB Tool** is a Streamlit-based web application for managing DynamoDB tables safely and efficiently.  
 It helps you browse, filter, and bulk update records without writing complex scripts or using the AWS CLI.
 
 ---
@@ -33,13 +33,6 @@ It simplifies DynamoDB operations and reduces the risk of errors when modifying 
 | Show Table Content    | 👁️     | Display table records in a DataFrame        |
 | Refresh Table         | 🔄     | Reload the latest data from the table       |
 | Count Records        | 🔢     | Show total number of records in the table   |
-| Additional Filters    | ➕     | Add custom filters by field and value       |
-| Delete Filter/Field  | ❌     | Remove a specific filter or update field    |
-| Add Update Field     | ➕     | Define which fields to update and how       |
-| Run Update          | ▶️ / 🚀 | Start the update process                    |
-| Stop Update         | 🛑     | Interrupt the update process safely         |
-| CloudWatch Query    | 🔎     | Find blocking executions by CorrelationId   |
-
 ---
 
 ## 💻 How to use
