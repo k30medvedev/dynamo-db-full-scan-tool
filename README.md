@@ -1,6 +1,6 @@
 # DynamoDB Tool
 
-<img src="images/image.jpeg" alt="Фото" width="300"/>
+<img src="[images/image.jpeg](https://github.com/k30medvedev/dynamo-db-full-scan-tool/blob/master/images/image.jpg)" alt="Фото" width="300"/>
 ## 📓 Changelog
 
 See [CHANGELOG.md](./CHANGELOG.md) for version history.
