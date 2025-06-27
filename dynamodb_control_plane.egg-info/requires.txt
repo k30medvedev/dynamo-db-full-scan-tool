@@ -1,0 +1,5 @@
+streamlit
+boto3
+pandas
+pytest
+moto==4.2.12

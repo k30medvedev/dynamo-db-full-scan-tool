@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+dynamodb_control_plane.egg-info/PKG-INFO
+dynamodb_control_plane.egg-info/SOURCES.txt
+dynamodb_control_plane.egg-info/dependency_links.txt
+dynamodb_control_plane.egg-info/requires.txt
+dynamodb_control_plane.egg-info/top_level.txt
+tests/test_aws_client.py
+tests/test_data_fetcher.py
+tests/test_filters.py
+tests/test_updater.py

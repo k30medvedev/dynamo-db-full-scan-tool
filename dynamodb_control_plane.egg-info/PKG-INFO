@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: dynamodb-control-plane
+Version: 0.1.0
+Summary: Streamlit tool + unit tests for DynamoDB management
+Author: Your Name
+Requires-Dist: streamlit
+Requires-Dist: boto3
+Requires-Dist: pandas
+Requires-Dist: pytest
+Requires-Dist: moto==4.2.12
